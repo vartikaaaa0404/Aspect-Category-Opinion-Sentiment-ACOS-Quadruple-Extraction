@@ -62,14 +62,4 @@ We further investigate the ability of different systems in addressing the implic
   <img src="img/separate_results.PNG" width="80%"/>
 </p>
 
-## Citation
-If you use the data and code in your research, please cite our paper as follows:
-```
-@inproceedings{cai2021aspect,
-  title={Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions},
-  author={Cai, Hongjie and Xia, Rui and Yu, Jianfei},
-  booktitle={Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)},
-  pages={340--350},
-  year={2021}
-}
-```
+
